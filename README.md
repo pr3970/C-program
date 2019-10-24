@@ -12,3 +12,4 @@ else
 printf("Enter no is greater than 10\n");
 getch();
 }
+hii preksha
